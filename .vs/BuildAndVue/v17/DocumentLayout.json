@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A20AE-4085-4D19-A157-40440C910B65}|BuildAndVue\\BuildAndVue.csproj|e:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\buildandvue\\buildandvue\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A32A20AE-4085-4D19-A157-40440C910B65}|BuildAndVue\\BuildAndVue.csproj|solutionrelative:buildandvue\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A20AE-4085-4D19-A157-40440C910B65}|BuildAndVue\\BuildAndVue.csproj|e:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\buildandvue\\buildandvue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32A20AE-4085-4D19-A157-40440C910B65}|BuildAndVue\\BuildAndVue.csproj|solutionrelative:buildandvue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A20AE-4085-4D19-A157-40440C910B65}|BuildAndVue\\BuildAndVue.csproj|e:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\buildandvue\\buildandvue\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32A20AE-4085-4D19-A157-40440C910B65}|BuildAndVue\\BuildAndVue.csproj|solutionrelative:buildandvue\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "json.json",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\BuildAndVue\\json.json",
+              "RelativeDocumentMoniker": "BuildAndVue\\json.json",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\BuildAndVue\\json.json*",
+              "RelativeToolTip": "BuildAndVue\\json.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T04:09:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\BuildAndVue\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BuildAndVue\\WeatherForecast.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\BuildAndVue\\WeatherForecast.cs",
+              "RelativeToolTip": "BuildAndVue\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:11:00.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\BuildAndVue\\Program.cs",
+              "RelativeDocumentMoniker": "BuildAndVue\\Program.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u4EE3\u7801\\\u8001\u5F20\u7CFB\u5217\u5B66\u4E60\\BuildAndVue\\BuildAndVue\\Program.cs",
+              "RelativeToolTip": "BuildAndVue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:10:53.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
